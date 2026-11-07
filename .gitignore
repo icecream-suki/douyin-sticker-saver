@@ -1,0 +1,14 @@
+# Local browser profiles, test downloads and screenshots
+work/
+.test-work/
+node_modules/
+dist/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
